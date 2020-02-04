@@ -1,0 +1,4 @@
+sqlite3 database.db
+CREATE TABLE students (name varchar(30), surname varchar(30),class varchar(4));
+INSERT INTO students VALUES ( "Andrea", "Milesi", "5AI");
+INSERT INTO students VALUES ( "Marco", "Milesi", "5AI");
